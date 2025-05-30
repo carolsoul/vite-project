@@ -6,12 +6,15 @@
 
 
 .homeContainer {
+    font-family: "Poppins", sans-serif;
     text-align: center;
     background-color: #c6daff;
     padding: 20px 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 100vh;
+    justify-content: center;
 }
 
 @keyframes popUp {
